@@ -8,7 +8,6 @@ numpy
 pandas
 sounddevice
 simpleaudio
-portaudio
 
 # Voice Recognition
 
